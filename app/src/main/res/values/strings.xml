@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">用語集エディタ</string>
+    <string name="external_storage_permission_denied">外部ストレージへのアクセスは禁止されています。</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">用語集エディタ v1.00</string>
+    <string name="nav_header_subtitle">http://github.com/aktera/GlossaryApp</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_description">用語集エディタ</string>
+    <string name="manu_delete">削除</string>
+    <string name="new_glossary">用語タイトル</string>
+    <string name="new_description">説明を入力してください</string>
+    <string name="menu_import">インポート</string>
+    <string name="menu_export">エクスポート</string>
+    <string name="title_new">用語を新規登録する</string>
+    <string name="title_edit">用語を編集する</string>
+</resources>
